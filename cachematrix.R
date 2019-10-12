@@ -1,5 +1,4 @@
-## This program calculate 
-## functions do
+## This program solve the problem of inversing a matrix and cache it to avoid costs of computation for future problems
 
 ## This function creates a special "matrix" object that can cache its inverse
 
